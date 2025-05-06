@@ -1,11 +1,11 @@
 # Guillermo Guzmán Sánchez
 
-Currículum Vitae
+Curriculum Vitae
 
 ![](photo.jpg)
 
-`correo`    [guillesupremacy@duck.com](mailto:guillesupremacy@duck.com) |
-`teléfono`    [3005707035](mailto:573005707035) |
+`email`    [guillesupremacy@duck.com](mailto:guillesupremacy@duck.com) |
+`phone`    [3005707035](mailto:573005707035) |
 `linkedin` [guillermo-guzmán-sánchez-532595237](https://bit.ly/42WM5Ak) |
 `github`   [billy-idle](https://github.com/billy-idle)
 
@@ -61,7 +61,7 @@ Responsabilidades clave
 
 *Lenguajes de Programación* Java, SQL, HTML, JavaScript, Python.
 
-*Herramientas/Tecnologías* Linux, RabbitMQ, Spring Boot, Bases de datos relacionales y no relacionales, APIs RestFul, Docker, K8S, Git, Jenkins.
+*Herramientas / Tecnologías* Linux, RabbitMQ, Spring Boot, Bases de datos relacionales y no relacionales, APIs RestFul, Docker, K8S, Git, Jenkins.
 
 *Idiomas* Inglés (B2), Español (nativo).
 
