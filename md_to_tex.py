@@ -95,7 +95,7 @@ class CurriculumVitae():
                 self.email = personal_info_from_md_line(line)
                 i += 1
                 continue
-            if line.startswith("`homepage`"):
+            if line.startswith("`phone`"):
                 self.homepage = personal_info_from_md_line(line)
                 i += 1
                 continue

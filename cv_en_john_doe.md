@@ -1,58 +1,72 @@
-# John Doe
+# Guillermo Guzmán Sánchez
 
 Curriculum Vitae
 
 ![](photo.jpg)
 
-`email`    [john.doe@example.com](mailto:john.doe@example.com) |
-`homepage` [example.com](https://example.com) |
-`linkedin` [your-linkedin-url](https://www.linkedin.com/in/your-linkedin-url/) |
-`github`   [your-github-username](https://github.com/your-github-username)
+`email`    [guillesupremacy@duck.com](mailto:guillesupremacy@duck.com) |
+`phone`    [3005707035](mailto:573005707035) |
+`linkedin` [guillermo-guzmán-sánchez-532595237](https://bit.ly/42WM5Ak) |
+`github`   [billy-idle](https://github.com/billy-idle)
+
+## Professional Summary
+
+Adept at driving project success, I leveraged IT infrastructure expertise and training skills at NTT DATA to enhance product development and deployment. Specializing in Java, my collaborative approach and requirements-gathering proficiency led to significant software advancements. Achievements include pioneering innovative solutions and fostering team growth, demonstrating both technical acumen and leadership.
 
 ## Work Experience
 
-### *Since Jan 2022* Lorem ipsum Inc. -- Assistant to the Assistant of the Senior President
+### *Since Oct 2022* NTT DATA -- Solution Analyst
 
-Lorem ipsum dolor sit amet
+Key Responsibilities
 
-- consectetur adipiscing elit
-- sed do eiusmod tempor incididunt
-- ut labore et dolore magna aliqua
+- Collaboration with cross-functional teams to design, develop, and launch new products. Worked closely with product managers, designers, and QA engineers to align product features with technical capabilities using Java and SQL-based microservices under Spring Boot.
+- Participated in the full software development life cycle, including requirements gathering, design, development, testing and deployment. Utilized Java and Spring Boot to develop backend APIs; wrote SQL queries and procedures to interact with relational databases; contributed to code reviews and automated testing pipelines.
+- Develop and maintenance software applications using languages such as Java, and SQL under Spring Boot. Implemented backend logic for business-critical applications, handled bug fixes, refactored legacy code, and optimized SQL queries for better performance.
 
-Ut enim ad minim veniam
+### *Mar 2022 -- Oct 2022* AxesNet -- Software Developer
 
-- quis nostrud exercitation ullamco
-- laboris nisi ut aliquip ex ea commodo consequat
-- duis aute irure dolor in reprehenderit in voluptate
+Key Responsibilities
 
-### *Jan 2021 -- Dec 2021* Dolor sit amet Corp. -- Junior Vice President Assistant
+- Develop and maintain of WhatsApp messaging company's component. 
+- Designed and implemented backend services using Spring Boot and RabbitMQ to manage message queues; built frontend components with AngularJS for internal dashboards; deployed services on Google Cloud using containerized environments.
 
-Lorem ipsum dolor sit amet
+### *Dec 2021 -- Mar 2022* Assist Consultores -- Java Developer
 
-- consectetur adipiscing elit
-- sed do eiusmod tempor incididunt
-- ut labore et dolore magna aliqua
+Key Responsibilities
 
-Ut enim ad minim veniam
+- Develop and maintenance of Bancolombia's Mobile Wallet. 
+- Developed microservices using Java and Spring Boot for financial transaction processing; integrated AWS and IBM Cloud services for deployment and data storage; implemented CI/CD pipelines to ensure frequent, stable releases.
 
-- quis nostrud exercitation ullamco
-- laboris nisi ut aliquip ex ea commodo consequat
-- duis aute irure dolor in reprehenderit in voluptate
+### *Dec 2020 -- Dec 2021* Zabud Technologies -- Java Developer
+
+Key Responsibilities
+
+- Develop scalable and maintainable code, ensuring long-term stability of the software.
+- Created robust RESTful APIs in Java with Spring Boot; managed relational data in PostgreSQL; utilized Google Cloud Platform services for app deployment, monitoring, and scaling.
+
+### *Nov 2019 -- Jan 2020* Aldeamo -- DevOps Engineer
+
+Key Responsibilities
+
+- Develop and maintain the company's core platform.
+- Developed backend modules with Spring Boot and asynchronous processing with RabbitMQ; maintained front-end components with AngularJS; leveraged Google Cloud for hosting, monitoring, and system health management.
 
 ## Education
 
-*Jan 2020 -- Dec 2020* MBA Business Waterfall Transformation -- Lorem Ipsum Business School
+*Jan 2015 -- Jan 2019* Systems Engineering -- Ibagué University
 
-*Sep 2019 -- Sep 2019* B.A. Studies of Medieval Logistics
+*Oct 2023 -- March 2024* PGP in Artificial Intelligence and Machine Learning Business Applications -- McCombs School of Business at UT Austin
 
 ## Skills
 
-*IT* PowerPoint, Excel, VisiCalc, Lotus 1-2-3
+*Programming Languages* Java, SQL, HTML, JavaScript, Python.
 
-*Languages* English (native), German (fluent), French (fluent)
+*Tools/Technologies* Linux, RabbitMQ, Spring Boot, Relational and Non-relational DBs, RestFul APIs, Docker, K8S, Git, Jenkins.
+
+*Languages* English (B2), Spanish (native).
 
 ## Certifications
 
-*Jun 2022* Certified Scrum Storyteller -- Flaccid Scrum School 
+*Sep 2024* Azure Fundamentals (AZ-204) -- Microsoft
 
-*Jun 2021* Class Participation non-fungible Token -- DeFi Centralized Coalition
+*Aug 2024* Spring Certified Professional -- vmware learning
